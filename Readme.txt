@@ -92,3 +92,41 @@ Filas con viajes marginal ( < 1 minuto) eliminadas: 116609
 Filas eliminadas asociadas a estaciones que no están en servicio: 3386
 Viajes obtenidos una vez realizado el preprocesamiento: 4370143
 
+Conclusiones preliminares obtenidas y respuestas a las preguntas planteadas
+ 1- Cuál es la relación entre la edad y el sexo en cuánto al uso de las bicicletas públicas
+       de la cuidad de Guadalajara, MX
+
+        Las personas que más emplearon las bicicletas en el 2025 fueron los comprendidos
+        entre 30 y 44 seguidos por los jóvenes entre 18 y 29.
+
+        En cuanto al género, los hombres superan significativamente a las mujeres en el 
+        uso del servicio en la cuidad en todos los grupos superiores a los 17 años.
+        Por debajo de los 17 años los datos no son significativos.
+
+    2- Cuál es la duración del viaje promedio.
+
+        De media un viaje suele durar entre 11 y 14 minutos. Sin que se pudiera apreciar 
+        grandes diferencias entre las edades o el género de los clientes del servicio.
+
+    3- Cuáles días de la semana se suele emplear más.
+
+        Cómo era de esperar los días laborables son los que tienen una mayor demanda del servicio.
+        Siendo los Miércoles y los Martes los días con un mayor número de solicitudes.
+
+    4- Cuáles son los trayectos más frecuentes
+
+        El trayecto de mayor demanda es el comprendido entre las estaciones 
+        ZPN-048 y ZPN-051 seguidamente de los comprendidos entre las estaciones
+        GDL-049 y las GDL-063, GDL-064 y la GDL-062.
+
+    5- En qué horario hay una mayor demanda del servicio.
+
+        El principal horario de uso del servicio es el comprendido entre las 6am y las 9pm.
+        Siendo el horario de la tarde, a partir de las 3pm el que alcanza los mayores niveles
+        de ocupación, fundamentalmente entre los usuarios de 30 a 44 años.
+        Se pudo apreciar que a diferencia de este último en el grupo comprendido entre los
+        45 y 60 años no se apreciaron diferencias entre el uso matutino y el vespertino del
+        servicio.
+
+        En relación con el sexo, no se apreció una diferencia significativa entre hombres y mujeres
+        en cuanto al comportamiento en el uso del servicio.
