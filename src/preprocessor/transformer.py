@@ -2,7 +2,7 @@
 def transform_dataframe(df, locDf):
     """
 
-        Get cleaned trips data and stations data and transform to perform Data Analyze
+        Get processed trips data and stations data and transform to perform Data Analyze
 
     :param df: Cleaned dataframe trips data
     :param locDf: Cleaned dataframe stations data
